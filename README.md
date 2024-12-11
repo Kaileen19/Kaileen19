@@ -33,4 +33,4 @@ Currently focused on improving my **Bash scripting** skills, especially when it 
 
 ## 🤹 Fun facts:  
 - I speak multiple languages, both human (**Eesti keel**, **English**, and some **French**, **Italian**, and **sign language**) and machine.  
-- Debug
+- Debugging code is my superpower—turning "why is this broken?" into "oh, I forgot a semicolon."
